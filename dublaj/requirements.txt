@@ -1,0 +1,2 @@
+1. Terminale bu kodu yazarak Wav2Lip modelini projeye kurunuz "git clone https://github.com/Rudrabha/Wav2Lip.git"
+2. "https://github.com/Rudrabha/Wav2Lip" Bu linkte bulunan github adresinden Wav2lip modelinin "Highly accurate lip-sync" ağırlığını Wav2lip/checkpoints klasörüne ekleyiniz.
